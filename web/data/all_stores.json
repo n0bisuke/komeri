@@ -1020,18 +1020,6 @@
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=4058"
  },
  {
-  "id": "8116",
-  "name": "コメリリフォーム雫石店",
-  "brand": "コメリリフォーム",
-  "address": "岩手県岩手郡雫石町千刈田９０番地２",
-  "prefecture": "岩手県",
-  "tel": "019-691-1355",
-  "lat": 39.696454,
-  "lon": 140.977613,
-  "goo": "",
-  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=8116"
- },
- {
   "id": "1153",
   "name": "コメリハード＆グリーン雫石店",
   "brand": "コメリハード＆グリーン",
@@ -1042,6 +1030,18 @@
   "lon": 140.9769588,
   "goo": "https://goo.gl/maps/MfW2Qubsri3k78M78",
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1153"
+ },
+ {
+  "id": "8116",
+  "name": "コメリリフォーム雫石店",
+  "brand": "コメリリフォーム",
+  "address": "岩手県岩手郡雫石町千刈田９０番地２",
+  "prefecture": "岩手県",
+  "tel": "019-691-1355",
+  "lat": 39.696454,
+  "lon": 140.977613,
+  "goo": "",
+  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=8116"
  },
  {
   "id": "1333",
@@ -1296,18 +1296,6 @@
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=0292"
  },
  {
-  "id": "8101",
-  "name": "コメリリフォーム一関店",
-  "brand": "コメリリフォーム",
-  "address": "岩手県一関市上日照４番３２号",
-  "prefecture": "岩手県",
-  "tel": "0191-31-8381",
-  "lat": 38.9394777,
-  "lon": 141.135384,
-  "goo": "https://goo.gl/maps/78jdJaUrBm34Mwkv5",
-  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=8101"
- },
- {
   "id": "0291",
   "name": "コメリハード＆グリーン一関店",
   "brand": "コメリハード＆グリーン",
@@ -1318,6 +1306,18 @@
   "lon": 141.1354079,
   "goo": "https://goo.gl/maps/xxcawAWrWtSu7csU9",
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=0291"
+ },
+ {
+  "id": "8101",
+  "name": "コメリリフォーム一関店",
+  "brand": "コメリリフォーム",
+  "address": "岩手県一関市上日照４番３２号",
+  "prefecture": "岩手県",
+  "tel": "0191-31-8381",
+  "lat": 38.9394777,
+  "lon": 141.135384,
+  "goo": "https://goo.gl/maps/78jdJaUrBm34Mwkv5",
+  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=8101"
  },
  {
   "id": "1334",
@@ -1551,11 +1551,11 @@
   "id": "8159",
   "name": "コメリリフォーム秋田湯沢店",
   "brand": "コメリリフォーム",
-  "address": "秋田県湯沢市表町４－３－３３",
-  "prefecture": "秋田県",
-  "tel": "0183-72-5784",
-  "lat": 39.1643018,
-  "lon": 140.4957467,
+  "address": "",
+  "prefecture": "岩手県",
+  "tel": "",
+  "lat": null,
+  "lon": null,
   "goo": "",
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=8159"
  },
@@ -1731,11 +1731,11 @@
   "id": "8156",
   "name": "コメリリフォーム角館店",
   "brand": "コメリリフォーム",
-  "address": "秋田県仙北市角館町上菅沢３８４",
-  "prefecture": "秋田県",
-  "tel": "0187-52-1502",
-  "lat": 39.7000816,
-  "lon": 140.730767,
+  "address": "",
+  "prefecture": "岩手県",
+  "tel": "",
+  "lat": null,
+  "lon": null,
   "goo": "",
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=8156"
  },
@@ -4080,18 +4080,6 @@
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=0442"
  },
  {
-  "id": "8216",
-  "name": "コメリリフォームつくば西店",
-  "brand": "コメリリフォーム",
-  "address": "茨城県つくば市下河原崎６３２番地１",
-  "prefecture": "茨城県",
-  "tel": "029-848-0612",
-  "lat": 36.0688949,
-  "lon": 140.0397501,
-  "goo": "https://goo.gl/maps/ADxpFRinzJ7fnM358",
-  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=8216"
- },
- {
   "id": "1170",
   "name": "コメリパワーつくば西店",
   "brand": "コメリパワー",
@@ -4104,16 +4092,16 @@
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1170"
  },
  {
-  "id": "1163",
-  "name": "コメリパワーつくば東店",
-  "brand": "コメリパワー",
-  "address": "茨城県つくば市さくらの森２５番地４",
+  "id": "8216",
+  "name": "コメリリフォームつくば西店",
+  "brand": "コメリリフォーム",
+  "address": "茨城県つくば市下河原崎６３２番地１",
   "prefecture": "茨城県",
-  "tel": "029-863-5080",
-  "lat": 36.1053628,
-  "lon": 140.1251145,
-  "goo": "https://goo.gl/maps/VypBDrSAQc49DV4j6",
-  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1163"
+  "tel": "029-848-0612",
+  "lat": 36.0688949,
+  "lon": 140.0397501,
+  "goo": "https://goo.gl/maps/ADxpFRinzJ7fnM358",
+  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=8216"
  },
  {
   "id": "8220",
@@ -4126,6 +4114,18 @@
   "lon": 140.1267957,
   "goo": "",
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=8220"
+ },
+ {
+  "id": "1163",
+  "name": "コメリパワーつくば東店",
+  "brand": "コメリパワー",
+  "address": "茨城県つくば市さくらの森２５番地４",
+  "prefecture": "茨城県",
+  "tel": "029-863-5080",
+  "lat": 36.1053628,
+  "lon": 140.1251145,
+  "goo": "https://goo.gl/maps/VypBDrSAQc49DV4j6",
+  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1163"
  },
  {
   "id": "0160",
@@ -4813,7 +4813,7 @@
  },
  {
   "id": "1240",
-  "name": "コメリハード＆グリーン東庄店（臨時休業）",
+  "name": "コメリハード＆グリーン東庄店",
   "brand": "コメリハード＆グリーン",
   "address": "千葉県香取郡東庄町新宿畑ヶ合１２３８",
   "prefecture": "千葉県",
@@ -6468,18 +6468,6 @@
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1378"
  },
  {
-  "id": "8221",
-  "name": "コメリリフォーム毛呂山店",
-  "brand": "コメリリフォーム",
-  "address": "埼玉県入間郡毛呂山町川角７９",
-  "prefecture": "埼玉県",
-  "tel": "049-276-5932",
-  "lat": 35.9456256,
-  "lon": 139.3292506,
-  "goo": "https://goo.gl/maps/YYt4Nhmbe6afgeP2A",
-  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=8221"
- },
- {
   "id": "4016",
   "name": "コメリハード＆グリーン毛呂山店",
   "brand": "コメリハード＆グリーン",
@@ -6490,6 +6478,18 @@
   "lon": 139.3292506,
   "goo": "https://goo.gl/maps/Jt9nxw4tux33v5CNA",
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=4016"
+ },
+ {
+  "id": "8221",
+  "name": "コメリリフォーム毛呂山店",
+  "brand": "コメリリフォーム",
+  "address": "埼玉県入間郡毛呂山町川角７９",
+  "prefecture": "埼玉県",
+  "tel": "049-276-5932",
+  "lat": 35.9456256,
+  "lon": 139.3292506,
+  "goo": "https://goo.gl/maps/YYt4Nhmbe6afgeP2A",
+  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=8221"
  },
  {
   "id": "1596",
@@ -6768,18 +6768,6 @@
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=0397"
  },
  {
-  "id": "1148",
-  "name": "コメリパワー大網白里店",
-  "brand": "コメリパワー",
-  "address": "千葉県大網白里市大網６１１",
-  "prefecture": "千葉県",
-  "tel": "0475-73-1751",
-  "lat": 35.529549,
-  "lon": 140.3301224,
-  "goo": "https://goo.gl/maps/uUr4gAnAyCZM6vFx7",
-  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1148"
- },
- {
   "id": "8219",
   "name": "コメリリフォーム大網白里店",
   "brand": "コメリリフォーム",
@@ -6790,6 +6778,18 @@
   "lon": 140.3208929,
   "goo": "",
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=8219"
+ },
+ {
+  "id": "1148",
+  "name": "コメリパワー大網白里店",
+  "brand": "コメリパワー",
+  "address": "千葉県大網白里市大網６１１",
+  "prefecture": "千葉県",
+  "tel": "0475-73-1751",
+  "lat": 35.529549,
+  "lon": 140.3301224,
+  "goo": "https://goo.gl/maps/uUr4gAnAyCZM6vFx7",
+  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1148"
  },
  {
   "id": "1513",
@@ -7116,16 +7116,16 @@
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=0777"
  },
  {
-  "id": "8229",
-  "name": "コメリリフォーム愛川店",
-  "brand": "コメリリフォーム",
+  "id": "1318",
+  "name": "コメリハード＆グリーン愛川店",
+  "brand": "コメリハード＆グリーン",
   "address": "神奈川県愛甲郡愛川町田代字戸倉９３",
   "prefecture": "神奈川県",
   "tel": "046-280-0321",
-  "lat": 35.5269087,
-  "lon": 139.2936949,
-  "goo": "https://goo.gl/maps/VQYrdnriJTr5n1dw5",
-  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=8229"
+  "lat": 35.526891,
+  "lon": 139.293562,
+  "goo": "https://goo.gl/maps/zban7qgPZ92TSpYj9",
+  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1318"
  },
  {
   "id": "0778",
@@ -7140,16 +7140,16 @@
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=0778"
  },
  {
-  "id": "1318",
-  "name": "コメリハード＆グリーン愛川店",
-  "brand": "コメリハード＆グリーン",
+  "id": "8229",
+  "name": "コメリリフォーム愛川店",
+  "brand": "コメリリフォーム",
   "address": "神奈川県愛甲郡愛川町田代字戸倉９３",
   "prefecture": "神奈川県",
   "tel": "046-280-0321",
-  "lat": 35.526891,
-  "lon": 139.293562,
-  "goo": "https://goo.gl/maps/zban7qgPZ92TSpYj9",
-  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1318"
+  "lat": 35.5269087,
+  "lon": 139.2936949,
+  "goo": "https://goo.gl/maps/VQYrdnriJTr5n1dw5",
+  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=8229"
  },
  {
   "id": "1819",
@@ -7258,6 +7258,78 @@
   "lon": 138.8426037,
   "goo": "https://goo.gl/maps/pwcNznp8kf6ACqvm6",
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1270"
+ },
+ {
+  "id": "1166",
+  "name": "コメリハード＆グリーン蒲原店",
+  "brand": "コメリハード＆グリーン",
+  "address": "静岡県静岡市清水区蒲原３２２－１１",
+  "prefecture": "静岡県",
+  "tel": "054-389-1811",
+  "lat": 35.1191993,
+  "lon": 138.6102364,
+  "goo": "https://goo.gl/maps/s8WpacjFZHEDiAFZ9",
+  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1166"
+ },
+ {
+  "id": "1316",
+  "name": "コメリハード＆グリーン富士川店",
+  "brand": "コメリハード＆グリーン",
+  "address": "静岡県富士市北松野３３４－１",
+  "prefecture": "静岡県",
+  "tel": "0545-56-3211",
+  "lat": 35.1894621,
+  "lon": 138.5904518,
+  "goo": "https://goo.gl/maps/tjptxNpH3cjtRYbeA",
+  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1316"
+ },
+ {
+  "id": "1616",
+  "name": "コメリハード＆グリーン土肥店",
+  "brand": "コメリハード＆グリーン",
+  "address": "静岡県伊豆市八木沢１２６８－１",
+  "prefecture": "静岡県",
+  "tel": "0558-97-1010",
+  "lat": 34.8923123,
+  "lon": 138.7737693,
+  "goo": "https://goo.gl/maps/TJPumSL7YQzSHLc58",
+  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1616"
+ },
+ {
+  "id": "0471",
+  "name": "コメリハード＆グリーン上栗原店",
+  "brand": "コメリハード＆グリーン",
+  "address": "山梨県山梨市上栗原７３８－１",
+  "prefecture": "山梨県",
+  "tel": "0553-21-7133",
+  "lat": 35.6646627,
+  "lon": 138.7072984,
+  "goo": "https://goo.gl/maps/GJT2CtDDx5k2GLfFA",
+  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=0471"
+ },
+ {
+  "id": "0476",
+  "name": "コメリハード＆グリーン御坂店",
+  "brand": "コメリハード＆グリーン",
+  "address": "山梨県笛吹市御坂町夏目原字前の木１２５４－１",
+  "prefecture": "山梨県",
+  "tel": "055-261-7540",
+  "lat": 35.6311602,
+  "lon": 138.6580232,
+  "goo": "https://goo.gl/maps/mK7srwAXVCicfc8k9",
+  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=0476"
+ },
+ {
+  "id": "1271",
+  "name": "コメリハード＆グリーン南部店",
+  "brand": "コメリハード＆グリーン",
+  "address": "山梨県南巨摩郡南部町内船８９２３番２",
+  "prefecture": "山梨県",
+  "tel": "0556-64-1266",
+  "lat": 35.2768004,
+  "lon": 138.4680783,
+  "goo": "https://goo.gl/maps/RvwcjefwCdHN2bfa7",
+  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1271"
  },
  {
   "id": "8004",
@@ -8052,18 +8124,6 @@
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1532"
  },
  {
-  "id": "4201",
-  "name": "コメリハード＆グリーン石坂店",
-  "brand": "コメリハード＆グリーン",
-  "address": "富山県富山市石坂６７３番地",
-  "prefecture": "富山県",
-  "tel": "076-431-6830",
-  "lat": 36.7119577,
-  "lon": 137.1991563,
-  "goo": "",
-  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=4201"
- },
- {
   "id": "4048",
   "name": "コメリＰＲＯ石坂店",
   "brand": "コメリPRO",
@@ -8086,6 +8146,18 @@
   "lon": 137.2031169,
   "goo": "https://goo.gl/maps/Zagt25FSaeqbBns9A",
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=8306"
+ },
+ {
+  "id": "4201",
+  "name": "コメリハード＆グリーン石坂店",
+  "brand": "コメリハード＆グリーン",
+  "address": "富山県富山市石坂６７３番地",
+  "prefecture": "富山県",
+  "tel": "076-431-6830",
+  "lat": 36.7119577,
+  "lon": 137.1991563,
+  "goo": "",
+  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=4201"
  },
  {
   "id": "0813",
@@ -8244,18 +8316,6 @@
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=4056"
  },
  {
-  "id": "0272",
-  "name": "コメリパワー魚津店",
-  "brand": "コメリパワー",
-  "address": "富山県魚津市宮津１２８番１",
-  "prefecture": "富山県",
-  "tel": "0765-25-1011",
-  "lat": 36.8011515,
-  "lon": 137.4073793,
-  "goo": "https://goo.gl/maps/i7zayXUeskoymhHY9",
-  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=0272"
- },
- {
   "id": "8302",
   "name": "コメリリフォーム魚津店",
   "brand": "コメリリフォーム",
@@ -8266,6 +8326,18 @@
   "lon": 137.4074405,
   "goo": "https://goo.gl/maps/HP2BF7K1FXanUwxK6",
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=8302"
+ },
+ {
+  "id": "0272",
+  "name": "コメリパワー魚津店",
+  "brand": "コメリパワー",
+  "address": "富山県魚津市宮津１２８番１",
+  "prefecture": "富山県",
+  "tel": "0765-25-1011",
+  "lat": 36.8011515,
+  "lon": 137.4073793,
+  "goo": "https://goo.gl/maps/i7zayXUeskoymhHY9",
+  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=0272"
  },
  {
   "id": "0245",
@@ -8280,16 +8352,16 @@
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=0245"
  },
  {
-  "id": "1078",
-  "name": "コメリパワー砺波店",
-  "brand": "コメリパワー",
+  "id": "8307",
+  "name": "コメリリフォーム砺波店",
+  "brand": "コメリリフォーム",
   "address": "富山県砺波市中神２丁目５０",
   "prefecture": "富山県",
-  "tel": "0763-32-2077",
-  "lat": 36.6430576,
-  "lon": 136.9464046,
-  "goo": "https://goo.gl/maps/wQAEQuVNkkSUQnTz5",
-  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1078"
+  "tel": "0763-32-2365",
+  "lat": 36.6430776,
+  "lon": 136.9462168,
+  "goo": "https://goo.gl/maps/FopAxzh7paFqVYwt7",
+  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=8307"
  },
  {
   "id": "0826",
@@ -8304,16 +8376,16 @@
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=0826"
  },
  {
-  "id": "8307",
-  "name": "コメリリフォーム砺波店",
-  "brand": "コメリリフォーム",
+  "id": "1078",
+  "name": "コメリパワー砺波店",
+  "brand": "コメリパワー",
   "address": "富山県砺波市中神２丁目５０",
   "prefecture": "富山県",
-  "tel": "0763-32-2365",
-  "lat": 36.6430776,
-  "lon": 136.9462168,
-  "goo": "https://goo.gl/maps/FopAxzh7paFqVYwt7",
-  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=8307"
+  "tel": "0763-32-2077",
+  "lat": 36.6430576,
+  "lon": 136.9464046,
+  "goo": "https://goo.gl/maps/wQAEQuVNkkSUQnTz5",
+  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1078"
  },
  {
   "id": "1145",
@@ -8400,6 +8472,18 @@
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=8301"
  },
  {
+  "id": "4202",
+  "name": "コメリハード＆グリーン金沢大友店",
+  "brand": "コメリハード＆グリーン",
+  "address": "石川県金沢市大友２－３１１",
+  "prefecture": "石川県",
+  "tel": "076-238-6510",
+  "lat": 36.561627,
+  "lon": 136.6568822,
+  "goo": "",
+  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=4202"
+ },
+ {
   "id": "4047",
   "name": "コメリＰＲＯ金沢大友店",
   "brand": "コメリPRO",
@@ -8424,16 +8508,16 @@
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=8353"
  },
  {
-  "id": "4202",
-  "name": "コメリハード＆グリーン金沢大友店",
-  "brand": "コメリハード＆グリーン",
-  "address": "石川県金沢市大友２－３１１",
+  "id": "8309",
+  "name": "コメリリフォーム白山店",
+  "brand": "コメリリフォーム",
+  "address": "石川県白山市横江町５２００番地",
   "prefecture": "石川県",
-  "tel": "076-238-6510",
-  "lat": 36.561627,
-  "lon": 136.6568822,
-  "goo": "",
-  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=4202"
+  "tel": "076-274-8722",
+  "lat": 34.6627594,
+  "lon": 136.3608013,
+  "goo": "https://goo.gl/maps/2yG4LH2emnKkKFzC7",
+  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=8309"
  },
  {
   "id": "1137",
@@ -8446,18 +8530,6 @@
   "lon": 136.5858571,
   "goo": "https://goo.gl/maps/Aaoc6McpN9ajzvXB9",
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1137"
- },
- {
-  "id": "8309",
-  "name": "コメリリフォーム白山店",
-  "brand": "コメリリフォーム",
-  "address": "石川県白山市横江町５２００番地",
-  "prefecture": "石川県",
-  "tel": "076-274-8722",
-  "lat": 34.6627594,
-  "lon": 136.3608013,
-  "goo": "https://goo.gl/maps/2yG4LH2emnKkKFzC7",
-  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=8309"
  },
  {
   "id": "1254",
@@ -8904,18 +8976,6 @@
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=0862"
  },
  {
-  "id": "1031",
-  "name": "コメリパワー武生店",
-  "brand": "コメリパワー",
-  "address": "福井県越前市稲寄町第２４号１２番地",
-  "prefecture": "福井県",
-  "tel": "0778-21-3556",
-  "lat": 35.9204558,
-  "lon": 136.189324,
-  "goo": "https://goo.gl/maps/vkDoJizqR2gaGD1s7",
-  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1031"
- },
- {
   "id": "8304",
   "name": "コメリリフォーム武生店",
   "brand": "コメリリフォーム",
@@ -8926,6 +8986,18 @@
   "lon": 136.189328,
   "goo": "https://goo.gl/maps/7SWeZUu9ARyhd4T89",
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=8304"
+ },
+ {
+  "id": "1031",
+  "name": "コメリパワー武生店",
+  "brand": "コメリパワー",
+  "address": "福井県越前市稲寄町第２４号１２番地",
+  "prefecture": "福井県",
+  "tel": "0778-21-3556",
+  "lat": 35.9204558,
+  "lon": 136.189324,
+  "goo": "https://goo.gl/maps/vkDoJizqR2gaGD1s7",
+  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1031"
  },
  {
   "id": "0867",
@@ -9396,18 +9468,6 @@
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1350"
  },
  {
-  "id": "8235",
-  "name": "コメリリフォーム石和店",
-  "brand": "コメリリフォーム",
-  "address": "山梨県笛吹市石和町東油川２４番地１",
-  "prefecture": "山梨県",
-  "tel": "055-261-5120",
-  "lat": 35.622538,
-  "lon": 138.600801,
-  "goo": "",
-  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=8235"
- },
- {
   "id": "1186",
   "name": "コメリハード＆グリーン石和店",
   "brand": "コメリハード＆グリーン",
@@ -9418,6 +9478,18 @@
   "lon": 138.600801,
   "goo": "",
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1186"
+ },
+ {
+  "id": "8235",
+  "name": "コメリリフォーム石和店",
+  "brand": "コメリリフォーム",
+  "address": "山梨県笛吹市石和町東油川２４番地１",
+  "prefecture": "山梨県",
+  "tel": "055-261-5120",
+  "lat": 35.622538,
+  "lon": 138.600801,
+  "goo": "",
+  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=8235"
  },
  {
   "id": "1308",
@@ -9444,18 +9516,6 @@
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1291"
  },
  {
-  "id": "0476",
-  "name": "コメリハード＆グリーン御坂店",
-  "brand": "コメリハード＆グリーン",
-  "address": "山梨県笛吹市御坂町夏目原字前の木１２５４－１",
-  "prefecture": "山梨県",
-  "tel": "055-261-7540",
-  "lat": 35.6311602,
-  "lon": 138.6580232,
-  "goo": "https://goo.gl/maps/mK7srwAXVCicfc8k9",
-  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=0476"
- },
- {
   "id": "8218",
   "name": "コメリリフォーム山梨万力店",
   "brand": "コメリリフォーム",
@@ -9480,16 +9540,16 @@
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1154"
  },
  {
-  "id": "0471",
-  "name": "コメリハード＆グリーン上栗原店",
-  "brand": "コメリハード＆グリーン",
-  "address": "山梨県山梨市上栗原７３８－１",
+  "id": "8231",
+  "name": "コメリリフォーム藤井店",
+  "brand": "コメリリフォーム",
+  "address": "山梨県韮崎市藤井町北下条２７７番地１",
   "prefecture": "山梨県",
-  "tel": "0553-21-7133",
-  "lat": 35.6646627,
-  "lon": 138.7072984,
-  "goo": "https://goo.gl/maps/GJT2CtDDx5k2GLfFA",
-  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=0471"
+  "tel": "0551-21-2711",
+  "lat": 35.7277607,
+  "lon": 138.4462883,
+  "goo": "https://goo.gl/maps/DGBDAry8oKxj727E7",
+  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=8231"
  },
  {
   "id": "1548",
@@ -9502,18 +9562,6 @@
   "lon": 138.4463086,
   "goo": "https://goo.gl/maps/7CCo2ap7p9yGpBV86",
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1548"
- },
- {
-  "id": "8231",
-  "name": "コメリリフォーム藤井店",
-  "brand": "コメリリフォーム",
-  "address": "山梨県韮崎市藤井町北下条２７７番地１",
-  "prefecture": "山梨県",
-  "tel": "0551-21-2711",
-  "lat": 35.7277607,
-  "lon": 138.4462883,
-  "goo": "https://goo.gl/maps/DGBDAry8oKxj727E7",
-  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=8231"
  },
  {
   "id": "1392",
@@ -9576,42 +9624,6 @@
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1269"
  },
  {
-  "id": "1271",
-  "name": "コメリハード＆グリーン南部店",
-  "brand": "コメリハード＆グリーン",
-  "address": "山梨県南巨摩郡南部町内船８９２３番２",
-  "prefecture": "山梨県",
-  "tel": "0556-64-1266",
-  "lat": 35.2768004,
-  "lon": 138.4680783,
-  "goo": "https://goo.gl/maps/RvwcjefwCdHN2bfa7",
-  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1271"
- },
- {
-  "id": "1316",
-  "name": "コメリハード＆グリーン富士川店",
-  "brand": "コメリハード＆グリーン",
-  "address": "静岡県富士市北松野３３４－１",
-  "prefecture": "静岡県",
-  "tel": "0545-56-3211",
-  "lat": 35.1894621,
-  "lon": 138.5904518,
-  "goo": "https://goo.gl/maps/tjptxNpH3cjtRYbeA",
-  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1316"
- },
- {
-  "id": "1166",
-  "name": "コメリハード＆グリーン蒲原店",
-  "brand": "コメリハード＆グリーン",
-  "address": "静岡県静岡市清水区蒲原３２２－１１",
-  "prefecture": "静岡県",
-  "tel": "054-389-1811",
-  "lat": 35.1191993,
-  "lon": 138.6102364,
-  "goo": "https://goo.gl/maps/s8WpacjFZHEDiAFZ9",
-  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1166"
- },
- {
   "id": "1907",
   "name": "コメリハード＆グリーン川根本町店",
   "brand": "コメリハード＆グリーン",
@@ -9622,18 +9634,6 @@
   "lon": 138.1211407,
   "goo": "",
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1907"
- },
- {
-  "id": "1616",
-  "name": "コメリハード＆グリーン土肥店",
-  "brand": "コメリハード＆グリーン",
-  "address": "静岡県伊豆市八木沢１２６８－１",
-  "prefecture": "静岡県",
-  "tel": "0558-97-1010",
-  "lat": 34.8923123,
-  "lon": 138.7737693,
-  "goo": "https://goo.gl/maps/TJPumSL7YQzSHLc58",
-  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1616"
  },
  {
   "id": "1845",
@@ -12564,18 +12564,6 @@
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1214"
  },
  {
-  "id": "8524",
-  "name": "コメリリフォーム那賀店",
-  "brand": "コメリリフォーム",
-  "address": "和歌山県紀の川市名手市場４３４",
-  "prefecture": "和歌山県",
-  "tel": "0736-75-9780",
-  "lat": 34.2697102,
-  "lon": 135.3636692,
-  "goo": "",
-  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=8524"
- },
- {
   "id": "1107",
   "name": "コメリパワー那賀店",
   "brand": "コメリパワー",
@@ -12586,6 +12574,18 @@
   "lon": 135.4411457,
   "goo": "https://goo.gl/maps/nN5zBkcQpFVMF8it5",
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1107"
+ },
+ {
+  "id": "8524",
+  "name": "コメリリフォーム那賀店",
+  "brand": "コメリリフォーム",
+  "address": "和歌山県紀の川市名手市場４３４",
+  "prefecture": "和歌山県",
+  "tel": "0736-75-9780",
+  "lat": 34.2697102,
+  "lon": 135.3636692,
+  "goo": "",
+  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=8524"
  },
  {
   "id": "1053",
@@ -15180,18 +15180,6 @@
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1714"
  },
  {
-  "id": "8826",
-  "name": "コメリリフォームうきは店",
-  "brand": "コメリリフォーム",
-  "address": "福岡県うきは市吉井町鷹取１６２９",
-  "prefecture": "福岡県",
-  "tel": "0943-75-8101",
-  "lat": 33.3473997,
-  "lon": 130.7552293,
-  "goo": "",
-  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=8826"
- },
- {
   "id": "1099",
   "name": "コメリパワーうきは店",
   "brand": "コメリパワー",
@@ -15202,6 +15190,18 @@
   "lon": 130.7265413,
   "goo": "https://goo.gl/maps/YEfkcT39Mfysg3466",
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1099"
+ },
+ {
+  "id": "8826",
+  "name": "コメリリフォームうきは店",
+  "brand": "コメリリフォーム",
+  "address": "福岡県うきは市吉井町鷹取１６２９",
+  "prefecture": "福岡県",
+  "tel": "0943-75-8101",
+  "lat": 33.3473997,
+  "lon": 130.7552293,
+  "goo": "",
+  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=8826"
  },
  {
   "id": "1696",
@@ -15336,18 +15336,6 @@
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=8852"
  },
  {
-  "id": "8808",
-  "name": "コメリリフォーム大牟田店",
-  "brand": "コメリリフォーム",
-  "address": "福岡県大牟田市岬町３番地１",
-  "prefecture": "福岡県",
-  "tel": "0944-59-7505",
-  "lat": 33.0291006,
-  "lon": 130.4241053,
-  "goo": "https://goo.gl/maps/nJ1zSoKvN9GbiD758",
-  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=8808"
- },
- {
   "id": "1084",
   "name": "コメリパワー大牟田店",
   "brand": "コメリパワー",
@@ -15358,6 +15346,18 @@
   "lon": 130.4237948,
   "goo": "https://goo.gl/maps/qQUkCK1f1eKG5NAb9",
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1084"
+ },
+ {
+  "id": "8808",
+  "name": "コメリリフォーム大牟田店",
+  "brand": "コメリリフォーム",
+  "address": "福岡県大牟田市岬町３番地１",
+  "prefecture": "福岡県",
+  "tel": "0944-59-7505",
+  "lat": 33.0291006,
+  "lon": 130.4241053,
+  "goo": "https://goo.gl/maps/nJ1zSoKvN9GbiD758",
+  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=8808"
  },
  {
   "id": "1588",
@@ -15420,18 +15420,6 @@
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1474"
  },
  {
-  "id": "1027",
-  "name": "コメリパワー山鹿店",
-  "brand": "コメリパワー",
-  "address": "熊本県山鹿市山鹿９２０－１",
-  "prefecture": "熊本県",
-  "tel": "0968-32-0911",
-  "lat": 33.0184535,
-  "lon": 130.6933346,
-  "goo": "https://goo.gl/maps/c12nwgXJ5CY5N2Y29",
-  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1027"
- },
- {
   "id": "8828",
   "name": "コメリリフォーム山鹿店",
   "brand": "コメリリフォーム",
@@ -15442,6 +15430,18 @@
   "lon": 130.6911907,
   "goo": "",
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=8828"
+ },
+ {
+  "id": "1027",
+  "name": "コメリパワー山鹿店",
+  "brand": "コメリパワー",
+  "address": "熊本県山鹿市山鹿９２０－１",
+  "prefecture": "熊本県",
+  "tel": "0968-32-0911",
+  "lat": 33.0184535,
+  "lon": 130.6933346,
+  "goo": "https://goo.gl/maps/c12nwgXJ5CY5N2Y29",
+  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1027"
  },
  {
   "id": "1805",
