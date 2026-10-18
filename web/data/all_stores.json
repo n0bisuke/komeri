@@ -2796,18 +2796,6 @@
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=8018"
  },
  {
-  "id": "4038",
-  "name": "コメリＰＲＯ鶴岡店",
-  "brand": "コメリPRO",
-  "address": "山形県鶴岡市余慶町１－１",
-  "prefecture": "山形県",
-  "tel": "0235-29-8082",
-  "lat": 38.7448514,
-  "lon": 139.8307484,
-  "goo": "https://goo.gl/maps/EkZKpgchACeDB7c1A",
-  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=4038"
- },
- {
   "id": "0218",
   "name": "コメリハード＆グリーン鶴岡店",
   "brand": "コメリハード＆グリーン",
@@ -2818,6 +2806,18 @@
   "lon": 139.8312486,
   "goo": "https://goo.gl/maps/mxdCxmicmGTxKkfm7",
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=0218"
+ },
+ {
+  "id": "4038",
+  "name": "コメリＰＲＯ鶴岡店",
+  "brand": "コメリPRO",
+  "address": "山形県鶴岡市余慶町１－１",
+  "prefecture": "山形県",
+  "tel": "0235-29-8082",
+  "lat": 38.7448514,
+  "lon": 139.8307484,
+  "goo": "https://goo.gl/maps/EkZKpgchACeDB7c1A",
+  "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=4038"
  },
  {
   "id": "0645",
@@ -3210,8 +3210,8 @@
   "address": "福島県田村市船引町船引宮ノ前７７－２",
   "prefecture": "福島県",
   "tel": "0247-81-1067",
-  "lat": 37.2895649,
-  "lon": 140.6397308,
+  "lat": 37.2866017,
+  "lon": 140.6451108,
   "goo": "",
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=1896"
  },
@@ -8166,8 +8166,8 @@
   "address": "富山県富山市石坂６７３番地",
   "prefecture": "富山県",
   "tel": "076-431-6830",
-  "lat": 36.7119577,
-  "lon": 137.1991563,
+  "lat": 36.711365,
+  "lon": 137.2006795,
   "goo": "",
   "url": "https://www.komeri.com/shop/storeSearch/storeDetail.aspx?id=4201"
  },
@@ -8429,7 +8429,7 @@
   "brand": "コメリPRO",
   "address": "富山県小矢部市西中野４８９",
   "prefecture": "富山県",
-  "tel": "0000-00-0000",
+  "tel": "0766-54-5064",
   "lat": 36.6755895,
   "lon": 136.8688637,
   "goo": "",
